@@ -251,7 +251,7 @@ def gametype():
 
 
 # Start Message Input Resume ID of Game 
-print("Start/Resume Download at ID= "+str(id)")
+print("Start/Resume Download at ID= "+str(id))
 print("")
 
 
