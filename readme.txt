@@ -25,6 +25,13 @@ Requirements: Install Python 3.10.10 x32 or x64/amd64
               Install "py-bgg" Library from github url
               (look at: readme-requirements.txt)
 
+Files:    "bgg-ripper.py"
+          Script for ripping BGG Data as Unformatted Text
+
+          "bgg-ripper2.py"
+          Script for ripping BGG Data as Formatted Text
+
+
               
 
 
