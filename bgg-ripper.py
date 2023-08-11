@@ -357,7 +357,7 @@ while True:
         names3=names3.replace("}","_")
         names3=names3.replace("[","_")
         names3=names3.replace("]","_")
-        #names3=names3.replace("*","_")
+        names3=names3.replace('"',"_")
         #names3=names3.replace("*","_")
         titel=names3        
 
