@@ -22,8 +22,8 @@ Usage:    Python 3.10.10 Script for Ripping/Downloading
 
 Requirements: Install Python 3.10.10 x32 or x64/amd64
 
-              Install "py-bgg" Library from github url
-              (look at: readme-requirements.txt)
+          Install "py-bgg" Library from github url
+          (look at: readme-requirements.txt)
 
 Files:    "bgg-ripper.py"
 
