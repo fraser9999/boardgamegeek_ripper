@@ -26,12 +26,23 @@ Requirements: Install Python 3.10.10 x32 or x64/amd64
               (look at: readme-requirements.txt)
 
 Files:    "bgg-ripper.py"
+
           Script for ripping BGG Data as Unformatted Text
+          code will crash if garbage and special characters
+          are in game data, please restart and resume
 
           "bgg-ripper2.py"
+
           Script for ripping BGG Data as Formatted Text
+          code will crash if garbage and special characters
+          are in game data, please restart and resume
 
+          "bgg-ripper3.py"
 
-              
+          Script for ripping BGG Data,
+          slightly improved Version, more Error tolerant,
+          and new Status Messages as well as reformatted 
+          Text Output, i believe it will not crash on
+          special characters...
 
 
