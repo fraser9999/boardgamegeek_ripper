@@ -9,3 +9,10 @@ url is: https://github.com/crustymonkey/py-bgg
 follow the tutorial for installation on the library site.
 
 no other requirements needed , rest of libs are python internal ones
+
+
+update:
+you can choose py-bgg with python installation routine now.
+
+use:
+pip install py-bgg
