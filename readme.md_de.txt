@@ -5,8 +5,6 @@
 ````markdown
 # Board Game Geek - Game Info Downloader / Ripper
 
-**Author:** Hermann Knopp  
-**Contact:** hermann.knopp@gmx.at  
 **Version:** 0.1alpha (early alpha version)
 
 ---
@@ -127,4 +125,5 @@ libbgg>=2.0.0
 ```
 
 > Hinweis: `textwrap` und `json` sind Standardbibliotheken von Python 3.10, müssen also nicht installiert werden.
+
 
