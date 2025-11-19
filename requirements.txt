@@ -1,0 +1,3 @@
+### `requirements.txt`
+libbgg>=2.0.0
+
