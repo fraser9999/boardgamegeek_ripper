@@ -4,8 +4,7 @@
 ````markdown
 # Board Game Geek - Game Info Downloader / Ripper
 
-**Author:** Hermann Knopp  
-**Contact:** hermann.knopp@gmx.at  
+
 **Version:** 0.1alpha (early alpha version)
 
 ---
@@ -114,4 +113,5 @@ python bgg-ripper3.py
 For private or research use only. Usage must comply with BoardGameGeek's terms of service.
 
 ```
+
 
